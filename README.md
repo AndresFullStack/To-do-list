@@ -1,2 +1,8 @@
 # To-do-list
 This project is a to-do list with the following technologies for FrontEnd React.js, Next.js, Easy-peasy-react, for BackEnd Node.js, Express.js and for Testing Jest.js
+
+
+INFORMACION PARA TENER EN CUENTA PARA PROXIMOS PROYECTO
+ES IMPORTANTE TENER UN ARCHIVO DONDE SE GUARDEN TODOS LOS TEXTOS DE LA APP, ESTO PERMITE QUE SEA MAS SENCILLO HACER CAMBIOS EN VARIOS ARCHIVOS YA QUE TODO SE CONDENSA Y SE RE-UTILIZA 
+
+APRENDER NEST Y EXPRESS
